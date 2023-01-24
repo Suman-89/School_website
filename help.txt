@@ -18,3 +18,8 @@ git push -u origin branch name
 
 switch one to another branch
 git checkout branch name
+
+
+Merge one to another branch
+1. First go to the branch to which the another one will be merged. (git checkout branch name)
+2. git merge branch name.
